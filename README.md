@@ -1,9 +1,3 @@
-<!--
-  README.md for Heaven-2
-  Last updated: 2025-06-03
-  Make sure to star ⭐️ and follow for more awesome projects!
--->
-
 <h1 align="center">
   👋 Hi, I'm Heaven!
 </h1>
