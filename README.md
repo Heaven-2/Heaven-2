@@ -79,7 +79,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="50" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="40" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="40" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="40" height="25"/>
+    <img src="https://cultofthepartyparrozt.com/parrots/hd/opensourceparrot.gif" width="40" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="40" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="40" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="40" height="25"/>
@@ -94,9 +94,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="40" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="40" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="40" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="40" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="40" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="25"/>
 </div>
 
 ## ✨ Fun Fact
