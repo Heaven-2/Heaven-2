@@ -1,3 +1,9 @@
+![](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkyMTMxNDMsIm5iZiI6MTc0OTIxMjg0MywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA2VDEyMjcyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRjNzE5ZmViMDFkOTZhYzFlMDMxYjQzZjNlYjZkNTM5ZjE5ZTYzNWMyN2JlNzBhOTdlMmM3YzRmOTk3NTk1OWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uEw8WA1EDdwbeliKUjGjcEOCWVxFczsQoc0TycIT0UA)
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="1500" height="200">
+<br><br>
+
 <h1 align="center">
   👋 Hi, I'm Heaven!
 </h1>
@@ -10,9 +16,7 @@
     "Turning ideas into robust digital experiences. <br>
     Every pixel and endpoint matters."
   </em>
-</p>
-
----
+</p>   
 
 ## 🛠️ Tech Toolbox
 
@@ -27,8 +31,9 @@
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/><br>
 
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" align="center">
 </p>
 
 <details>
@@ -40,7 +45,6 @@
 </details>
 
 ---
-
 ## 📈 My GitHub at a Glance
 
 <p align="center">
