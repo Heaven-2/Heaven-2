@@ -67,7 +67,7 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="300">
-  <a href="mailto:your-email@example.com" align="center">
+  <a href="mailto:heaven.addis@bitscollege.edu.et" align="center">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="300">
