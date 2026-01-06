@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  👋 Hi, I'm Heaven!
+  👋 Hi, I'm Heaven Addis!
 </h1>
 <h3 align="center">
   🚀 Passionate FullStack Developer | Architecting Creative, Scalable Solutions
